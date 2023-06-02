@@ -237,7 +237,7 @@ h2
 	position: relative;
 	background-attachment: scroll;
 	left:600px;
-	height: 350px;
+	height: auto;
 	width: 700px;
 }
 
@@ -248,7 +248,7 @@ h2
 	position: relative;
 	background-attachment: scroll;
 	left:600px;
-	height: 150px;
+	height: auto;
 	width: 700px;
 }
 
