@@ -806,7 +806,7 @@ h2
 	position: relative;
 	background-attachment: local;
 	left:25%;
-	height: 50vh;
+	height: auto;
 	width: 50vw;
 }
 
@@ -817,7 +817,7 @@ h2
 	position: relative;
 	background-attachment: local;
 	left:25%;
-	height: 15vh;
+	height: auto;
 	width: 50vw;
 }
 
@@ -1382,7 +1382,7 @@ h2
 	position: relative;
 	background-attachment: local;
 	left:22%;
-	height: 15vh;
+	height: auto;
 	width: 50vw;
 }
 
@@ -1393,7 +1393,7 @@ h2
 	position: relative;
 	background-attachment: local;
 	left:15%;
-	height: 7.5vh;
+	height: auto;
 	width: 75vw;
 }
 
