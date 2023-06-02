@@ -1157,7 +1157,7 @@ h2
 	margin-bottom: 2vh;
 	margin-top: 0vh;
 	color: #212F3D;
-	width: 89vw;
+	width: 93vw;
 	height: 7vh;
 	padding: 8px;
 	text-indent: 0vw;
@@ -1695,10 +1695,10 @@ h2
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	width: 125px;
+	width: auto;
 	font-size: 20px;
 	margin: 2px 1px;
-	margin-left: -115px;
+	margin-left: -150px;
 	cursor: pointer;
 	transition-duration: 0.4s;
 }
